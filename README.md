@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/239253/120186159-b4654600-c245-11eb-8b0e-5f3603cfb284.png)
 
 后端业务管理 - 数字仪表盘
-![image](https://user-images.githubusercontent.com/239253/120184912-1c1a9180-c244-11eb-95c7-01516b30ae92.png)
+![image](https://user-images.githubusercontent.com/239253/120186408-0dcd7500-c246-11eb-8a83-2ea20d0af9b0.png)
 
 后端业务管理 - 门店360度视图
 ![image](https://user-images.githubusercontent.com/239253/120185014-3a808d00-c244-11eb-8693-1ff1c151ee52.png)
