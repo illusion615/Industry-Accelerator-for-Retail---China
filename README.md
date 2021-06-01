@@ -16,7 +16,12 @@
 需要先具备如下产品才可安装并使用该解决方案包
 - 基于21世纪互联的Microsoft Power Apps per User/App Plan
 - 本安装包需要如下PCF
-- -processcontrol - https://github.com/victorsolaya/progress-control-pcf
+## processcontrol
+- https://github.com/victorsolaya/progress-control-pcf
+## GalleryFieldControl
+- https://github.com/DynamicsNinja/PCF-Gallery-Control
+## Power Kanban
+- https://github.com/XRM-OSS/D365-PowerKanban
 
 # 安装及部署
 下载方案并导入
